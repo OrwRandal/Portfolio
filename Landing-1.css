@@ -1290,6 +1290,14 @@
   margin: 7px 0 0 76px;
 }
 
+.project-link{
+  cursor: pointer
+}
+
+.project-link:hover img{
+  width: 150%;
+}
+
 @media (max-width: 1199px) {
   .u-section-5 .u-list-1 {
     width: 940px;
